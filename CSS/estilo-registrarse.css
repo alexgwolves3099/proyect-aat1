@@ -1,0 +1,26 @@
+.inicio{
+    background-color: yellow;
+}
+.tiendas{
+    background-color: aqua;
+}
+.productos{
+    background-color: blue;
+}
+.formulario{
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+label, input{
+    margin-bottom: 2px;
+}
+.text-fuente{
+    color: white;
+}
+footer{
+    background-color: purple;
+}
